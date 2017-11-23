@@ -20,7 +20,7 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 [image0]: ./examples/undistort_output_2.png "Calibration"
 [image1]: ./examples/test1_undist.png "Undistorted"
-[image2]: ./examples/test1_trans.jpg "Road Transformed"
+[image2]: ./examples/test1_trans.png"Road Transformed"
 [image5]: ./examples/curvature.png "Fit Visual"
 [image6]: ./examples/example_output1.png "Output"
 [video1]: ./project_video_generated.mp4 "Video"
